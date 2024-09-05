@@ -4,7 +4,7 @@
   "description": "",
   "main": "8express1.js",
   "scripts": {
-    "start": "node 8express1.js"
+    "start": "node fileOperation.js"
   },
   "author": "",
   "license": "ISC",
